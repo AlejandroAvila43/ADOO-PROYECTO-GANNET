@@ -1,21 +1,14 @@
-1. Gestión de Inventario de Agroquímicos
-Control de entradas y salidas de agroquímicos en almacenes, con alertas de stock bajo y control de caducidad
+1. Gestión y Compra de Agroquímicos
 
-2. Planificación de Aplicaciones en Campo
-Asignación de agroquímicos a parcelas específicas, con recomendaciones sobre dosis y tiempos de aplicación según el cultivo y la fase de crecimiento
+2. Consulta de Disponibilidad de Productos
 
-3. Registro de Uso de Agroquímicos por Cultivo
-Registro detallado de los productos aplicados en cada tipo de cultivo, incluyendo dosis, fechas y efectos
+3. Registro de Costos de Reabastecimiento
 
 4. Cumplimiento de Normativas y Reportes de Seguridad
-Generación de reportes para cumplimiento de regulaciones ambientales y de seguridad en el uso de agroquímicos
 
-5. Capacitación y Seguridad para el Personal
-Ofrecer a los trabajadores capacitación sobre el manejo seguro de agroquímicos y registrar su cumplimiento
+5. Reportes de Inventario y Costos
 
 6. Optimización de Costos de Agroquímicos
-Análisis de costos y optimización en la compra y aplicación de agroquímicos
 
-7. CRUD en Gestión de Inventario de Agroquímicos.
-Proporciona la estructura básica y necesaria para operar y gestionar el inventario de forma eficiente en cualquier sistema empresarial de agroquímicos
+7. Gestión de Agroquímicos (CRUD)
 
